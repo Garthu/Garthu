@@ -21,9 +21,9 @@
     <a href="https://www.linkedin.com/in/samuel-cardoso-432b30178/" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <!---<a href="https://tryhackme.com/p/garthu">
-      <img height=40 src="https://tryhackme-badges.s3.amazonaws.com/garthu.png" alt="TryHackMe">
-    </a>-->
+    
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2236359" style='border:none;'></iframe>
+
   </p>
 </div> 
 
