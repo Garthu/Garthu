@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a><br>
     
-<img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2236359" style='border:none;'></iframe>
 
   </p>
 </div> 
