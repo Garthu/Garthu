@@ -21,8 +21,7 @@
     <a href="https://www.linkedin.com/in/samuel-cardoso-432b30178/" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a><br><br>
-    
- 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png" alt="Your Image Badge" />
   </p>
 </div> 
 
