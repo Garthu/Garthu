@@ -32,6 +32,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png?v=2" alt="TryHackMe Badge" />
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="420">
+        <b>Hack The Box</b><br>
+        <sub>(Já passou da hora de eu começar isso aqui 😅)</sub><br><br>
+        <img src="https://www.hackthebox.com/badge/image/2332057" height="55" alt="Hack The Box badge">
+      </td>
+      <td align="center" width="420">
+        <b>TryHackMe</b><br>
+        <sub>&nbsp;</sub><br><br>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png?v=2" height="55" alt="TryHackMe badge">
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
+
+
