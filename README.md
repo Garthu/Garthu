@@ -9,9 +9,16 @@
 </div>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garthu&layout=compact&langs_count=16&theme=dracula"/>
-  <br>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garthu&theme=dracula" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garthu&theme=dracula&utcOffset=-3" />
 </div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garthu&theme=dracula" />
+</div>
+
+
+
 
 <div>
   <p align="center">
@@ -21,7 +28,7 @@
     <a href="https://www.linkedin.com/in/samuel-cardoso-432b30178/" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a><br><br>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png?v=1" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Garthu.png?v=2" alt="Your Image Badge" />
   </p>
 </div> 
 
